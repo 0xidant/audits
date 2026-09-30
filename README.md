@@ -1,5 +1,9 @@
 # Audits
 
+## Total Findings
+|Critical|High|Medium|Low|
+|---|---|---|---|
+|1|0|1|2|
 
 
 |Date|Site|Project|Findings|Rank|
